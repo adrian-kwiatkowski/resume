@@ -32,7 +32,7 @@ What I have learned:
 
 
 
-## VoIP App
+## [HiHi Connect 2](https://apps.apple.com/app/hihi-connect-2/id1532249807)
 
 Application that allows audio and video calling using **Session Initiation Protocol (SIP)**. Users can also store contacts, synchronize them and view their presence (using **XMPP**).
 
@@ -62,7 +62,7 @@ What I have learned:
 
 <br><br>
 
-## Nautical App
+## [Seaber](https://apps.apple.com/app/seaber/id1468876155#?platform=iphone)
 
 An award-winning IOT mobile app which allows boat owners to be notified of unauthorised movement of their vessels, with sophisticated map integration and social networking feature.
 
@@ -77,7 +77,7 @@ What I have learned:
 
 <br><br>
 
-## [Zdrowe Zakupy](https://apps.apple.com/pl/app/zdrowe-zakupy/id1200020785)
+## [Zdrowe Zakupy](https://apps.apple.com/pl/app/zdrowe-zakupy/id1200020785#?platform=iphone)
 
 Zdrowe Zakupy is an application that helps you buy products that do not contain harmful ingredients. After scanning the product's barcode, you can check the specific ingredients and their possible harmfulness.
 
@@ -96,7 +96,7 @@ What I have learned:
   <img src="./assets/apps/zdrowe_zakupy3.jpg" width="240">
 </p>
 
-## [Qpony](https://apps.apple.com/pl/app/qpony-promocje-kupony-zniżki/id585176404)
+## [Qpony](https://apps.apple.com/app/qpony-promocje-kupony-zniżki/id585176404#?platform=iphone)
 
 The most popular discount app in Poland. The best and most up-to-date coupons and leaflets in one application. Here you will find a database of coupons, sales, discounts and promotional leaflets for popular retail chains.
 
@@ -114,7 +114,7 @@ What I have learned:
   <img src="./assets/apps/qpony3.jpg" width="240">
 </p>
 
-## [Blix](https://apps.apple.com/pl/app/blix-gazetki-lista-zakupów/id1012288672)
+## [Blix](https://apps.apple.com/app/blix-gazetki-lista-zakupów/id1012288672#?platform=iphone)
 
 Blix is a free application with leaflets of the most popular retail chains in Poland and a convenient and simple shopping list. Additionally, thanks to the intelligent product search engine, you can check where you can buy the cheapest product.
 
