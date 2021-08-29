@@ -46,6 +46,12 @@ What I have learned:
 - **CoreData** to store and synchronize data fetched from the API (company contacts, calls history)
 - **linphoneSDK** - a library that integrates SIP voice/video features
 
+<p float="left">
+  <img src="./assets/apps/hihi1.png" width="240">
+  <img src="./assets/apps/hihi2.png" width="240">
+  <img src="./assets/apps/hihi3.png" width="240">
+</p>
+
 <br><br>
 
 ## Social networking App
@@ -74,6 +80,11 @@ What I have learned:
 - first experience with **RxSwift** and **RxCocoa**
 - **SnapKit** as a DSL for **AutoLayout**
 - implementing **Stripe** payments
+
+<p float="left">
+  <img src="./assets/apps/seaber1.png" width="240">
+  <img src="./assets/apps/seaber2.png" width="240">
+</p>
 
 <br><br>
 
