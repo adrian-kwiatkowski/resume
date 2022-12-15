@@ -245,7 +245,7 @@ What I've learned:
 
 # Companies
 
-[<img src="./assets/companies/devoteam.png" height="80" style="background-color:whitesmoke;padding:0px;">](https://creativetech-se.devoteam.com)
+[<img src="./assets/companies/devoteam.png" style="background-color:whitesmoke;padding:0px;" height="80">](https://creativetech-se.devoteam.com)
 
 *February 2021 - present*
 
@@ -257,7 +257,7 @@ Consultancy within software development and advice on software solutions within 
 
 <br>
 
-[<img src="./assets/companies/itcraft.png" height="60" style="background-color:whitesmoke;padding:16px;">](https://itcraftapps.com)
+[<img src="./assets/companies/itcraft.png" style="background-color:whitesmoke;padding:16px;" height="60">](https://itcraftapps.com)
 
 *May 2019 - January 2021*
 
@@ -274,7 +274,7 @@ My responsibilities:
 
 <br>
 
-[<img src="./assets/companies/qpony.svg" height="60" style="background-color:whitesmoke;padding:16px;">](https://www.qpony.pl)
+[<img src="./assets/companies/qpony.svg" style="background-color:whitesmoke;padding:16px;" height="60">](https://www.qpony.pl)
 
 *August 2018 - April 2019*
 
@@ -291,7 +291,7 @@ My responsibilities:
 
 <br>
 
-[<img src="./assets/companies/unit4.svg" height="40" style="background-color:whitesmoke;padding:16px;">](https://www.unit4.com)
+[<img src="./assets/companies/unit4.svg" style="background-color:whitesmoke;padding:16px;" height="40">](https://www.unit4.com)
 
 *June 2016 - July 2018*
 
@@ -322,7 +322,7 @@ My responsibilities:
 
 # Education
 
-[<img src="./assets/companies/umk.png" height="80" style="background-color:whitesmoke;padding:8px;">](https://www.umk.pl/en)
+[<img src="./assets/companies/umk.png" style="background-color:whitesmoke;padding:8px;" height="80" >](https://www.umk.pl/en)
 
 *October 2012 - June 2017*
 
