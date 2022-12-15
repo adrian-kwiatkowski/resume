@@ -1,10 +1,14 @@
 # About me
 
-My name is Adrian and I am an iOS Developer with almost 3 years of experience. I have been a fan of Apple products for as long as I can remember.
+My name is Adrian and I am an iOS Developer with ~5 years of experience. During this time I have worked on a number of projects from within different business areas (mainly shopping, social, utility and telecom apps). I have been a fan of Apple products for as long as I can remember.
 
-At work, I am professional and pay attention to details. I am a well-organized person that enjoys working individually, but is far more excited about being part of a team with people who like to get things done in the most effective way.
+At work, I am professional and pay attention to details. I am a well-organized person that enjoys working individually, but is far more excited about being a part of a team with people who like to get things done in the most effective and simple way. I love modern, minimalistic design and good User Experience. 
 
-Personally, I am a very friendly and conflict-free person. I also love the eco-friendly, zero waste lifestyle, a mindfulness approach and all kinds of animals - I own a cat.
+My commercial iOS Development journey has started in a company that manages the largest shopping/coupon apps in Poland and there I gained experience working with large scale apps (100k+ MAU). During that time I also learned how to work with e.g. Firebase, Realm, fastlane. Also, this was the time when I got to know how to work in Scrum and Kanban. Then, for around 1,5 years I was working in a software house and learned basics of reactive programming (RxSwift) and also expanded my skills in application architecture.
+
+In the beginning of 2021, I moved to Copenhagen and started working in Jayway on the GN Kai project - a companion app that helps onboard people to a new experience of using hearing aid. This app was written entirely using Apple's new UI framework - SwiftUI. Later that year I joined Jabra Sound+ team where I learned the basics of the new Swift Concurrency framework (async await).
+
+Personally, I am a very friendly and conflict-free person. I also love the eco-friendly, zero waste lifestyle, a mindfulness approach and all kinds of animals - I have a cat.
 
 ## Contact info
 
@@ -13,13 +17,59 @@ Personally, I am a very friendly and conflict-free person. I also love the eco-f
 
 # Apps
 
+## Folketinget
+
+An app which allows the members of danish parliament to better manage their everyday activities and obtain the right information for the meetings and committees they attend to. This was an iPad only app.
+
+What I've learned:
+
+- basics of **VIPER** architecture
+- working with documents using **QuickLook**
+- making **SOAP requests** with iOS networking API
+
+## Jabra Sound+
+
+The Jabra Sound+ app is the perfect companion for your Jabra headphones – adding extra features and enabling you to personalize the way you use your Jabra headphones.
+
+I was a part of a team of 10+ iOS developers working on a large codebase - this one was an interesting experience in itself. I was responsible for maintaining the old code, adding new features and support for new devices.
+
+What I've learned:
+
+- basics of bluetooth connectivity and communication using **GaiaSDK**, **GNP** and **CoreBluetooth**
+- writing code that uses **Async await**
+- working in a large product team (30+ people)
+
+<p float="left">
+  <img src="./assets/apps/jabra1.jpg" width="240">
+  <img src="./assets/apps/jabra2.jpg" width="240">
+  <img src="./assets/apps/jabra3.jpg" width="240">
+</p>
+
+## Kai
+
+New onboarding solution to help new hearing aid users adapt to their new lives and to get familiar with their new devices. **Azure** cloud was used for backend. App content and user journeys managed in an open source **headless CMS (Strapi)**.
+
+iOS version of the app was written entirely using **SwiftUI** and **Combine**. 
+
+What I've learned:
+
+- working with **State Machine** concept
+- using **SwiftUI** to create views
+- **Combine** framework to pass the data between components
+
+<p float="left">
+  <img src="./assets/apps/kai1.png" width="240">
+  <img src="./assets/apps/kai2.png" width="240">
+  <img src="./assets/apps/kai3.png" width="240">
+</p>
+
 ## Obostrzenia
 
 The app was supposed to show what are the current governmental restrictions (caused by COVID-19 pandemic) in Poland, based on user's location. Together with my friend, we wrote the **MVP** in **Flutter** and submitted it to the App Store and Google Play.
 
 Unfortunately - due to the fact that this was a personal project rather than a one from a recognized institution, such as a governmental entity or hospital - it got rejected, so we decided to abandon the project.
 
-What I have learned:
+What I've learned:
 
 - writing simple apps using **Flutter**
 - **geolocator** to fetch user's location data
@@ -38,7 +88,7 @@ Application that allows audio and video calling using **Session Initiation Proto
 
 For the first few months of this project I was the only iOS Developer, so I had a chance to find out about the responsibilities and problems that come with such role.
 
-What I have learned:
+What I've learned:
 
 - integrating **PushKit** into the project to receive VoIP notifications
 - working with **CallKit** to handle CXActions
@@ -58,7 +108,7 @@ What I have learned:
 
 This project was a social network app that allows users to search for groups related to their interests/hobbies and post text, images, videos and links based on their permissions/group access.
 
-What I have learned:
+What I've learned:
 
 - unidirectional data flow using **Moya**, **Realm** and **RxSwift**
 - writing **unit tests** with **Quick** and **Nimble**
@@ -74,7 +124,7 @@ An award-winning IOT mobile app which allows boat owners to be notified of unaut
 
 I joined the project few months before launch date and was involved during the process of submitting it to the App Store, as well as some time after for a post-release maintenance.
 
-What I have learned:
+What I've learned:
 
 - **MVVM** architecture
 - first experience with **RxSwift** and **RxCocoa**
@@ -94,7 +144,7 @@ Zdrowe Zakupy is an application that helps you buy products that do not contain 
 
 This was my first chance to work on a project from beginning to launch. Even though it was an app with an established userbase, we decided to start this one from scratch due to the loads of bugs in the legacy code.
 
-What I have learned:
+What I've learned:
 
 - writing **unit tests** in **XCTest**
 - scanning barcodes using **AVCaptureMetadataOutput**
@@ -111,7 +161,7 @@ What I have learned:
 
 The most popular discount app in Poland. The best and most up-to-date coupons and leaflets in one application. Here you will find a database of coupons, sales, discounts and promotional leaflets for popular retail chains.
 
-What I have learned:
+What I've learned:
 
 - network communication with **API** using **Alamofire**
 - Push Notifications
@@ -131,7 +181,7 @@ Blix is a free application with leaflets of the most popular retail chains in Po
 
 This app was a particular challenge, as due to the high MAU (100k+), every new update was a critical moment to make sure that all parts of the app are backwards compatible.
 
-What I have learned:
+What I've learned:
 
 - **MVC** architecture
 - using **Realm** to store and migrate data
@@ -151,7 +201,7 @@ Skidki i Akcii is a free application that was created to simplify users life and
 
 As my first commercial project, I got a task to create it as a clone of the other app described above (Blix), but for the ukrainian market. It was a very didactic project for me as I had a chance to get to know how large projects are structured and how to work with applications this size.
 
-What I have learned:
+What I've learned:
 
 - writing commercial apps with **Swift**
 - becoming more familiar with **Xcode** and **iOS SDK**
@@ -175,9 +225,19 @@ What I have learned:
 
 # Companies
 
+## [<img src="./assets/companies/devoteam.png" height="80">](https://creativetech-se.devoteam.com)
+
+*February 2021 - present*
+
+Creative Tech is an established business unit within Devoteam across the EMEA with more than 1.000 creative technologists in 6 countries. In a world of emerging technologies, we shape performant products and experiences. Turning promising opportunities into powerful realities. Creative tech fuels better change.
+
+My responsibilities:
+
+Consultancy within software development and advice on software solutions within the field of software engineering, predominantly, but not limited to, development mobile applications on the iOS platform.
+
 ## [<img src="./assets/companies/itcraft.png" height="60">](https://itcraftapps.com)
 
-*May 2019 - present*
+*May 2019 - January 2021*
 
 itCraft sp. z o.o. is a team of creative specialists who deliver highest quality IT solutions with dedication. All the skills we possess enable us to execute projects in areas of banking, insurance, e-commerce solutions and Internet marketing. We are proud to be co-executors of projects for Poland’s biggest banks, insurance and telecom companies. 10 years on the market, 200+ completed projects and more than 60 people on board – that’s itCraft in numbers. The main goal of the itCraft team is always to deliver high-quality mobile innovations to businesses around the world.
 
