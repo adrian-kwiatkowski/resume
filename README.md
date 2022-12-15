@@ -15,6 +15,12 @@ Personally, I am a very friendly and conflict-free person. I also love the eco-f
 - kwiatkowski.adrian@icloud.com
 - [linkedin.com/in/adrian-kwiatkowski](https://www.linkedin.com/in/adrian-kwiatkowski/)
 
+### Quick jump to:
+- [projects](#apps)
+- [skills](#other-skills-and-tools)
+- [employers](#companies)
+- [education](#education)
+
 # Apps
 
 ## Folketinget
@@ -26,6 +32,8 @@ What I've learned:
 - basics of **VIPER** architecture
 - working with documents using **QuickLook**
 - making **SOAP requests** with iOS networking API
+
+<br>
 
 ## Jabra Sound+
 
@@ -45,6 +53,8 @@ What I've learned:
   <img src="./assets/apps/jabra3.jpg" width="240">
 </p>
 
+<br>
+
 ## Kai
 
 New onboarding solution to help new hearing aid users adapt to their new lives and to get familiar with their new devices. **Azure** cloud was used for backend. App content and user journeys managed in an open source **headless CMS (Strapi)**.
@@ -63,6 +73,8 @@ What I've learned:
   <img src="./assets/apps/kai3.png" width="240">
 </p>
 
+<br>
+
 ## Obostrzenia
 
 The app was supposed to show what are the current governmental restrictions (caused by COVID-19 pandemic) in Poland, based on user's location. Together with my friend, we wrote the **MVP** in **Flutter** and submitted it to the App Store and Google Play.
@@ -80,7 +92,7 @@ What I've learned:
   <img src="./assets/apps/obostrzenia2.jpg" width="240">
 </p>
 
-
+<br>
 
 ## [HiHi Connect 2](https://apps.apple.com/app/hihi-connect-2/id1532249807)
 
@@ -102,7 +114,7 @@ What I've learned:
   <img src="./assets/apps/hihi3.png" width="240">
 </p>
 
-<br><br>
+<br>
 
 ## Social networking App
 
@@ -116,7 +128,7 @@ What I've learned:
 - **UIImagePickerController** to post images
 - protocol-oriented programming (POP)
 
-<br><br>
+<br>
 
 ## [Seaber](https://apps.apple.com/app/seaber/id1468876155#?platform=iphone)
 
@@ -136,7 +148,7 @@ What I've learned:
   <img src="./assets/apps/seaber2.png" width="240">
 </p>
 
-<br><br>
+<br>
 
 ## [Zdrowe Zakupy](https://apps.apple.com/pl/app/zdrowe-zakupy/id1200020785#?platform=iphone)
 
@@ -157,6 +169,8 @@ What I've learned:
   <img src="./assets/apps/zdrowe_zakupy3.jpg" width="240">
 </p>
 
+<br>
+
 ## [Qpony](https://apps.apple.com/app/qpony-promocje-kupony-zniżki/id585176404#?platform=iphone)
 
 The most popular discount app in Poland. The best and most up-to-date coupons and leaflets in one application. Here you will find a database of coupons, sales, discounts and promotional leaflets for popular retail chains.
@@ -174,6 +188,8 @@ What I've learned:
   <img src="./assets/apps/qpony2.jpg" width="240">
   <img src="./assets/apps/qpony3.jpg" width="240">
 </p>
+
+<br>
 
 ## [Blix](https://apps.apple.com/app/blix-gazetki-lista-zakupów/id1012288672#?platform=iphone)
 
@@ -195,6 +211,8 @@ What I've learned:
   <img src="./assets/apps/blix3.jpg" width="240">
 </p>
 
+<br>
+
 ## Skidki i Akcii
 
 Skidki i Akcii is a free application that was created to simplify users life and help to get rid of the long search for discounts in supermarkets, leaflets and on the Internet.
@@ -211,6 +229,8 @@ What I've learned:
 <p float="left">
   <img src="./assets/apps/skidki.png" width="320">
 </p>
+
+<br>
 
 ## Other skills and tools
 
