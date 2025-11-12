@@ -1,6 +1,6 @@
 # About me
 
-My name is Adrian and I am an iOS Developer with ~5 years of experience. During this time I have worked on a number of projects from within different business areas (mainly shopping, social, utility and telecom apps). I have been a fan of Apple products for as long as I can remember.
+My name is Adrian and I am an iOS Developer with 7+ years of experience. During this time I have worked on a number of projects from within different business areas (mainly shopping, social, utility and telecom apps). I have been a fan of Apple products for as long as I can remember.
 
 At work, I am professional and pay attention to details. I am a well-organized person that enjoys working individually, but is far more excited about being a part of a team with people who like to get things done in the most effective and simple way. I love modern, minimalistic design and good User Experience. 
 
@@ -22,6 +22,17 @@ Personally, I am a very friendly and conflict-free person. I also love the eco-f
 - [education](#education)
 
 # Apps
+
+## Too Good To Go
+
+Too Good To Go makes it easy to make a positive impact on the planet while saving money on your favourite foods.
+That's why it's been named as Winner in the '2023 Cultural Impact' category at the prestigious annual Apple App Store Awards. With the #1 app for reducing food waste, you can save tasty unsold snacks, takeaway meals and ingredients straight from shops, cafes, grocery stores and restaurants in your area - all at an unbeatable price.
+
+<p float="left">
+  <img src="./assets/apps/tgtg1.png" width="240">
+  <img src="./assets/apps/tgtg2.png" width="240">
+  <img src="./assets/apps/tgtg3.png" width="240">
+</p>
 
 ## Folketinget
 
@@ -245,9 +256,26 @@ What I've learned:
 
 # Companies
 
+# [<img src="./assets/companies/tgtg.png" style="background-color:whitesmoke;padding:0px;" height="80">](https://www.toogoodtogo.com)
+
+*March 2023 - present*
+
+Too Good To Go is a certified B Corp social impact company, on a mission to inspire and empower everyone to fight food waste together.
+
+My responsibilities:
+
+- developing new features, whilst maintaining and improving existing code for the international Too Good To Go iOS app
+- releasing new versions and continuously monitoring app performance and detecting areas for improvement
+- keeping user experience at the forefront of work, at all times
+- actively participating in team’s agile development processes with a continuous improvement mindset
+- striving to deliver top-class international products with maximum quality, maintainability and scalability
+- taking on additional tasks outside current boundaries with help from team to continue to grow and expand skills
+
+<br>
+
 # [<img src="./assets/companies/devoteam.png" style="background-color:whitesmoke;padding:0px;" height="80">](https://creativetech-se.devoteam.com)
 
-*February 2021 - present*
+*February 2021 - February 2023*
 
 Creative Tech is an established business unit within Devoteam across the EMEA with more than 1.000 creative technologists in 6 countries. In a world of emerging technologies, we shape performant products and experiences. Turning promising opportunities into powerful realities. Creative tech fuels better change.
 
