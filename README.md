@@ -8,7 +8,7 @@ My commercial iOS Development journey has started in a company that manages the 
 
 In the beginning of 2021, I moved to Copenhagen and started working in Jayway on the GN Kai project - a companion app that helps onboard people to a new experience of using hearing aid. This app was written entirely using Apple's new UI framework - SwiftUI. Later that year I joined Jabra Sound+ team where I learned the basics of the new Swift Concurrency framework (async await).
 
-Personally, I am a very friendly and conflict-free person. I also love the eco-friendly, zero waste lifestyle, a mindfulness approach and all kinds of animals - I have a cat.
+Personally, I am a very friendly and conflict-free person. I also love the eco-friendly, zero waste lifestyle, a mindfulness approach and all kinds of animals.
 
 ## Contact info
 
@@ -30,8 +30,8 @@ That's why it's been named as Winner in the '2023 Cultural Impact' category at t
 
 <p float="left">
   <img src="./assets/apps/tgtg1.png" width="240">
-  <img src="./assets/apps/tgtg2.png" width="240">
   <img src="./assets/apps/tgtg3.png" width="240">
+  <img src="./assets/apps/tgtg2.png" width="240">
 </p>
 
 ## Folketinget
