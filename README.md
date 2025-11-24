@@ -28,6 +28,11 @@ Personally, I am a very friendly and conflict-free person. I also love the eco-f
 Too Good To Go makes it easy to make a positive impact on the planet while saving money on your favourite foods.
 That's why it's been named as Winner in the '2023 Cultural Impact' category at the prestigious annual Apple App Store Awards. With the #1 app for reducing food waste, you can save tasty unsold snacks, takeaway meals and ingredients straight from shops, cafes, grocery stores and restaurants in your area - all at an unbeatable price.
 
+What I've learned:
+- **Design System** basics (tokens, components)
+- **AI** assisted coding
+- mentoring junior colleagues
+
 <p float="left">
   <img src="./assets/apps/tgtg1.png" width="240">
   <img src="./assets/apps/tgtg3.png" width="240">
