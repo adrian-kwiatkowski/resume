@@ -1,14 +1,15 @@
 # About me
 
-My name is Adrian and I am an iOS Developer with 7+ years of experience. During this time I have worked on a number of projects from within different business areas (mainly shopping, social, utility and telecom apps). I have been a fan of Apple products for as long as I can remember.
+My name is Adrian Kwiatkowski and I have been working as an iOS Developer since 2018. During this time, I have worked on a number of projects across different business areas (mainly shopping, social, utility and telecom apps).
+At work, I am professional and I pay attention to details. I am a well-organized person who enjoys working individually, but is even more motivated when working as part of a team that values effectiveness and simplicity. I love modern, minimalistic design and good User Experience. 
 
-At work, I am professional and pay attention to details. I am a well-organized person that enjoys working individually, but is far more excited about being a part of a team with people who like to get things done in the most effective and simple way. I love modern, minimalistic design and good User Experience. 
+My commercial iOS development journey started in a company that manages the largest shopping/coupon apps in Poland, where I gained experience working on large-scale apps (100k+ MAU). During that time, I also learned to work with tools such as Firebase, Realm, and fastlane. This was also where I learned to work with Scrum and Kanban. Then, for around 1.5 years, I worked in a software house and learned the basics of reactive programming (RxSwift) and also expanded my skills in application architecture.
 
-My commercial iOS Development journey has started in a company that manages the largest shopping/coupon apps in Poland and there I gained experience working with large scale apps (100k+ MAU). During that time I also learned how to work with e.g. Firebase, Realm, fastlane. Also, this was the time when I got to know how to work in Scrum and Kanban. Then, for around 1,5 years I was working in a software house and learned basics of reactive programming (RxSwift) and also expanded my skills in application architecture.
+In the beginning of 2021, I moved to Copenhagen and started working at Jayway on the GN Kai project - a companion app that helps onboard users to a new hearing-aid experience. This app was written entirely using Apple's new UI framework - SwiftUI. Later that year, I joined the Jabra Sound+ team, where I learned the basics of the new Swift Concurrency framework (async/await).
 
-In the beginning of 2021, I moved to Copenhagen and started working in Jayway on the GN Kai project - a companion app that helps onboard people to a new experience of using hearing aid. This app was written entirely using Apple's new UI framework - SwiftUI. Later that year I joined Jabra Sound+ team where I learned the basics of the new Swift Concurrency framework (async await).
+Since 2023, I have been a part of Too Good To Go, where we focus on minimizing food waste around the world. Here, apart from working on the iOS app, I have also been part of the team that created the design system used across all company platforms.
 
-Personally, I am a very friendly and conflict-free person. I also love the eco-friendly, zero waste lifestyle, a mindfulness approach and all kinds of animals.
+Personally, I am friendly and easy-going. I also enjoy an eco-friendly, zero-waste lifestyle, a mindful approach to life, and all kinds of animals.
 
 ## Contact info
 
@@ -29,14 +30,14 @@ Too Good To Go makes it easy to make a positive impact on the planet while savin
 That's why it's been named as Winner in the '2023 Cultural Impact' category at the prestigious annual Apple App Store Awards. With the #1 app for reducing food waste, you can save tasty unsold snacks, takeaway meals and ingredients straight from shops, cafes, grocery stores and restaurants in your area - all at an unbeatable price.
 
 What I've learned:
-- **Design System** basics (tokens, components)
-- **AI** assisted coding
+- **design systems** basics (tokens, components)
+- **AI-assisted** coding
 - mentoring junior colleagues
 
 <p float="left">
-  <img src="./assets/apps/tgtg1.png" width="240">
-  <img src="./assets/apps/tgtg3.png" width="240">
   <img src="./assets/apps/tgtg2.png" width="240">
+  <img src="./assets/apps/tgtg3.png" width="240">
+  <img src="./assets/apps/tgtg1.png" width="240">
 </p>
 
 ## Folketinget
@@ -93,9 +94,9 @@ What I've learned:
 
 ## Obostrzenia
 
-The app was supposed to show what are the current governmental restrictions (caused by COVID-19 pandemic) in Poland, based on user's location. Together with my friend, we wrote the **MVP** in **Flutter** and submitted it to the App Store and Google Play.
+The app was supposed to show what are the current governmental restrictions (caused by COVID-19 pandemic) in Poland, based on user's location. Together with my friend, we created the **MVP** in **Flutter** and submitted it to the App Store and Google Play.
 
-Unfortunately - due to the fact that this was a personal project rather than a one from a recognized institution, such as a governmental entity or hospital - it got rejected, so we decided to abandon the project.
+Unfortunately - due to the fact that this was a personal project rather than a one from a recognized institution (such as a governmental entity or hospital) - it got rejected, so we decided to abandon the project.
 
 What I've learned:
 
@@ -263,7 +264,7 @@ What I've learned:
 
 # [<img src="./assets/companies/tgtg.png" style="background-color:whitesmoke;padding:0px;" height="80">](https://www.toogoodtogo.com)
 
-*March 2023 - present*
+**Senior iOS Software Engineer**, *March 2023 - present*
 
 Too Good To Go is a certified B Corp social impact company, on a mission to inspire and empower everyone to fight food waste together.
 
@@ -280,7 +281,7 @@ My responsibilities:
 
 # [<img src="./assets/companies/devoteam.png" style="background-color:whitesmoke;padding:0px;" height="80">](https://creativetech-se.devoteam.com)
 
-*February 2021 - February 2023*
+**iOS Developer**, *February 2021 - February 2023*
 
 Creative Tech is an established business unit within Devoteam across the EMEA with more than 1.000 creative technologists in 6 countries. In a world of emerging technologies, we shape performant products and experiences. Turning promising opportunities into powerful realities. Creative tech fuels better change.
 
@@ -292,7 +293,7 @@ Consultancy within software development and advice on software solutions within 
 
 # [<img src="./assets/companies/itcraft.png" style="background-color:whitesmoke;padding:16px;" height="60">](https://itcraftapps.com)
 
-*May 2019 - January 2021*
+**iOS Developer**, *May 2019 - January 2021*
 
 itCraft sp. z o.o. is a team of creative specialists who deliver highest quality IT solutions with dedication. All the skills we possess enable us to execute projects in areas of banking, insurance, e-commerce solutions and Internet marketing. We are proud to be co-executors of projects for Poland’s biggest banks, insurance and telecom companies. 10 years on the market, 200+ completed projects and more than 60 people on board – that’s itCraft in numbers. The main goal of the itCraft team is always to deliver high-quality mobile innovations to businesses around the world.
 
@@ -309,7 +310,7 @@ My responsibilities:
 
 # [<img src="./assets/companies/qpony.svg" style="background-color:whitesmoke;padding:16px;" height="60">](https://www.qpony.pl)
 
-*August 2018 - April 2019*
+**Junior iOS Developer**, *August 2018 - April 2019*
 
 Qpony.pl sp. z o.o. are shopping applications used by over 3,000,000 users, generating tens of millions of sessions per month. By providing marketing solutions to leading brands, manufacturers and retail chains, company supports sales and conquer the mobile advertising market. Qpony.pl recently became laureates of the Deloitte "Technology Fast 50 2018 CE" ranking, ranking 15th among the fastest-growing technology companies in Central Europe and 3rd - in the same category - among companies in Poland.
 
@@ -332,7 +333,7 @@ Unit4’s next-generation enterprise software supports their customers in delive
 
 My responsibilities:
 
-- System Analyst
+- **System Analyst**
   - reviewing and confirming product bugs
   - delivering workaround to downgrade critically of a given bug
   - assisting with high priority escalations
@@ -342,7 +343,7 @@ My responsibilities:
   - acting as a 2nd Line in the Centre (i.e. within given module as well as cross-module)
   - delivering trainings within the area of expertise
 
-- IT Support Consultant
+- **IT Support Consultant**
   - OneVision, UBW HR/Payroll module, Workflow, Reporting
   - Research support requests (SRs) ad provide the customer with a solution, work around or action plan;
   - Keep the customer informed through written and verbal communication, in accordance with the customer's SLA
