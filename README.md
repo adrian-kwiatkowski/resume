@@ -308,7 +308,7 @@ My responsibilities:
 
 <br>
 
-# [<img src="./assets/companies/qpony.svg" style="background-color:whitesmoke;padding:16px;" height="60">](https://www.qpony.pl)
+# [<img src="./assets/companies/qpony.png" style="background-color:whitesmoke;padding:16px;" height="60">](https://www.qpony.pl)
 
 **Junior iOS Developer**, *August 2018 - April 2019*
 
@@ -325,7 +325,7 @@ My responsibilities:
 
 <br>
 
-# [<img src="./assets/companies/unit4.svg" style="background-color:whitesmoke;padding:16px;" height="40">](https://www.unit4.com)
+# [<img src="./assets/companies/unit4.png" style="background-color:whitesmoke;padding:16px;" height="40">](https://www.unit4.com)
 
 *June 2016 - July 2018*
 
