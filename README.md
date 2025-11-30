@@ -266,7 +266,7 @@ What I've learned:
 
 **Senior iOS Software Engineer**, *March 2023 - present*
 
-Too Good To Go is a certified B Corp social impact company, on a mission to inspire and empower everyone to fight food waste together.
+**Too Good To Go** is a certified B Corp social impact company, on a mission to inspire and empower everyone to fight food waste together.
 
 My responsibilities:
 
@@ -283,7 +283,7 @@ My responsibilities:
 
 **iOS Developer**, *February 2021 - February 2023*
 
-Creative Tech is an established business unit within Devoteam across the EMEA with more than 1.000 creative technologists in 6 countries. In a world of emerging technologies, we shape performant products and experiences. Turning promising opportunities into powerful realities. Creative tech fuels better change.
+**Creative Tech** is an established business unit within Devoteam across the EMEA with more than 1.000 creative technologists in 6 countries. In a world of emerging technologies, we shape performant products and experiences. Turning promising opportunities into powerful realities. Creative tech fuels better change.
 
 My responsibilities:
 
@@ -295,7 +295,7 @@ Consultancy within software development and advice on software solutions within 
 
 **iOS Developer**, *May 2019 - January 2021*
 
-itCraft sp. z o.o. is a team of creative specialists who deliver highest quality IT solutions with dedication. All the skills we possess enable us to execute projects in areas of banking, insurance, e-commerce solutions and Internet marketing. We are proud to be co-executors of projects for Poland’s biggest banks, insurance and telecom companies. 10 years on the market, 200+ completed projects and more than 60 people on board – that’s itCraft in numbers. The main goal of the itCraft team is always to deliver high-quality mobile innovations to businesses around the world.
+**itCraft** sp. z o.o. is a team of creative specialists who deliver highest quality IT solutions with dedication. All the skills we possess enable us to execute projects in areas of banking, insurance, e-commerce solutions and Internet marketing. We are proud to be co-executors of projects for Poland’s biggest banks, insurance and telecom companies. 10 years on the market, 200+ completed projects and more than 60 people on board – that’s itCraft in numbers. The main goal of the itCraft team is always to deliver high-quality mobile innovations to businesses around the world.
 
 My responsibilities:
 
@@ -312,7 +312,7 @@ My responsibilities:
 
 **Junior iOS Developer**, *August 2018 - April 2019*
 
-Qpony.pl sp. z o.o. are shopping applications used by over 3,000,000 users, generating tens of millions of sessions per month. By providing marketing solutions to leading brands, manufacturers and retail chains, company supports sales and conquer the mobile advertising market. Qpony.pl recently became laureates of the Deloitte "Technology Fast 50 2018 CE" ranking, ranking 15th among the fastest-growing technology companies in Central Europe and 3rd - in the same category - among companies in Poland.
+**Qpony.pl** sp. z o.o. are shopping applications used by over 3,000,000 users, generating tens of millions of sessions per month. By providing marketing solutions to leading brands, manufacturers and retail chains, company supports sales and conquer the mobile advertising market. Qpony.pl recently became laureates of the Deloitte "Technology Fast 50 2018 CE" ranking, ranking 15th among the fastest-growing technology companies in Central Europe and 3rd - in the same category - among companies in Poland.
 
 My responsibilities:
 
@@ -329,7 +329,7 @@ My responsibilities:
 
 *June 2016 - July 2018*
 
-Unit4’s next-generation enterprise software supports their customers in delivering an exceptional People Experience to their customers – from boosting success for students and professionals, to empowering the public servants and nonprofit teams doing good in the world. They transform work to be more meaningful and inspiring through software that’s self-driving, adaptive and intuitive, intelligently automating administrative tasks and providing easy access to the answers people need.
+**Unit4**’s next-generation enterprise software supports their customers in delivering an exceptional People Experience to their customers – from boosting success for students and professionals, to empowering the public servants and nonprofit teams doing good in the world. They transform work to be more meaningful and inspiring through software that’s self-driving, adaptive and intuitive, intelligently automating administrative tasks and providing easy access to the answers people need.
 
 My responsibilities:
 
