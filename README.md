@@ -1,4 +1,13 @@
-# About me
+# Adrian Kwiatkowski
+
+iOS engineer since 2018, based in Copenhagen. I work with SwiftUI, Swift Concurrency and design systems.
+
+- [kwiatkowski.adrian@icloud.com](mailto:kwiatkowski.adrian@icloud.com)
+- [linkedin.com/in/adrian-kwiatkowski](https://www.linkedin.com/in/adrian-kwiatkowski/)
+
+Jump to: [projects](#projects) · [skills](#skills) · [experience](#experience) · [education](#education)
+
+## About me
 
 My name is Adrian Kwiatkowski and I have been working as an iOS Developer since 2018. During this time, I have worked on a number of projects across different business areas (mainly shopping, social, utility and telecom apps).
 I value working in teams that prize effectiveness and simplicity, and I have a soft spot for modern, minimalistic design and good user experience.
@@ -11,18 +20,7 @@ Since 2023, I have been a part of Too Good To Go, where we focus on minimizing f
 
 Personally, I am friendly and easy-going. I also enjoy an eco-friendly, zero-waste lifestyle, a mindful approach to life, and all kinds of animals.
 
-## Contact info
-
-- [kwiatkowski.adrian@icloud.com](mailto:kwiatkowski.adrian@icloud.com)
-- [linkedin.com/in/adrian-kwiatkowski](https://www.linkedin.com/in/adrian-kwiatkowski/)
-
-### Quick jump to:
-- [Skills](#skills)
-- [Apps](#apps)
-- [Companies](#companies)
-- [Education](#education)
-
-# Skills
+## Skills
 
 **Languages**: Swift 6 (strict concurrency, actors, Sendable, @MainActor)
 
@@ -44,9 +42,15 @@ Personally, I am friendly and easy-going. I also enjoy an eco-friendly, zero-was
 
 **Process & collaboration**: Git, Scrum, Kanban, GitHub, Bitbucket, GitLab, JIRA, Confluence
 
-# Apps
+### Spoken languages
 
-## [Too Good To Go](https://apps.apple.com/app/too-good-to-go-end-food-waste/id1060683933)
+- **Polish** — native
+- **English** — fluent
+- **Danish** — B2 (Prøve i Dansk 3)
+
+## Projects
+
+### [Too Good To Go](https://apps.apple.com/app/id1060683933)
 
 Too Good To Go makes it easy to make a positive impact on the planet while saving money on your favourite foods.
 That's why it's been named as Winner in the '2023 Cultural Impact' category at the prestigious annual Apple App Store Awards. With the #1 app for reducing food waste, you can save tasty unsold snacks, takeaway meals and ingredients straight from shops, cafes, grocery stores and restaurants in your area - all at an unbeatable price.
@@ -62,15 +66,13 @@ What I've learned:
 - **swift-snapshot-testing** with dedicated `xcodebuild` test plans in CI
 - **Claude Code** with multi-agent workflows in daily work
 
-<p float="left">
-  <img src="./assets/apps/tgtg2.png" width="240">
-  <img src="./assets/apps/tgtg3.png" width="240">
-  <img src="./assets/apps/tgtg1.png" width="240">
+<p align="center">
+  <img src="./assets/apps/tgtg2.png" width="240" alt="Too Good To Go screenshot, 1 of 3">
+  <img src="./assets/apps/tgtg3.png" width="240" alt="Too Good To Go screenshot, 2 of 3">
+  <img src="./assets/apps/tgtg1.png" width="240" alt="Too Good To Go screenshot, 3 of 3">
 </p>
 
-<br>
-
-## [Jabra Sound+](https://apps.apple.com/app/jabra-sound/id1320805565)
+### [Jabra Sound+](https://apps.apple.com/app/id1320805565)
 
 The Jabra Sound+ app is the perfect companion for your Jabra headphones - adding extra features and enabling you to personalize the way you use your Jabra headphones.
 
@@ -82,15 +84,13 @@ What I've learned:
 - writing code that uses **async/await**
 - working in a large product team (30+ people)
 
-<p float="left">
-  <img src="./assets/apps/jabra1.jpg" width="240">
-  <img src="./assets/apps/jabra2.jpg" width="240">
-  <img src="./assets/apps/jabra3.jpg" width="240">
+<p align="center">
+  <img src="./assets/apps/jabra1.jpg" width="240" alt="Jabra Sound+ screenshot, 1 of 3">
+  <img src="./assets/apps/jabra2.jpg" width="240" alt="Jabra Sound+ screenshot, 2 of 3">
+  <img src="./assets/apps/jabra3.jpg" width="240" alt="Jabra Sound+ screenshot, 3 of 3">
 </p>
 
-<br>
-
-## Folketinget
+### Folketinget
 
 An app which allows the members of the Danish Parliament to better manage their everyday activities and obtain the right information for the meetings and committees they attend. This was an iPad only app.
 
@@ -102,9 +102,7 @@ What I've learned:
 
 *Screenshots unavailable due to NDA.*
 
-<br>
-
-## Kai
+### Kai
 
 New onboarding solution to help new hearing aid users adapt to their new lives and to get familiar with their new devices. **Azure** cloud was used for backend. App content and user journeys managed in an open source **headless CMS (Strapi)**.
 
@@ -116,15 +114,13 @@ What I've learned:
 - using **SwiftUI** to create views
 - **Combine** framework to pass the data between components
 
-<p float="left">
-  <img src="./assets/apps/kai1.png" width="240">
-  <img src="./assets/apps/kai2.png" width="240">
-  <img src="./assets/apps/kai3.png" width="240">
+<p align="center">
+  <img src="./assets/apps/kai1.png" width="240" alt="Kai screenshot, 1 of 3">
+  <img src="./assets/apps/kai2.png" width="240" alt="Kai screenshot, 2 of 3">
+  <img src="./assets/apps/kai3.png" width="240" alt="Kai screenshot, 3 of 3">
 </p>
 
-<br>
-
-## Obostrzenia
+### Obostrzenia
 
 The app was supposed to show the current governmental restrictions (caused by COVID-19 pandemic) in Poland, based on user's location. Together with my friend, we created the **MVP** in **Flutter** and submitted it to the App Store and Google Play.
 
@@ -136,14 +132,12 @@ What I've learned:
 - **geolocator** to fetch user's location data
 - **permission_handler** to work with user's permissions
 
-<p float="left">
-  <img src="./assets/apps/obostrzenia1.jpg" width="240">
-  <img src="./assets/apps/obostrzenia2.jpg" width="240">
+<p align="center">
+  <img src="./assets/apps/obostrzenia1.jpg" width="240" alt="Obostrzenia screenshot, 1 of 2">
+  <img src="./assets/apps/obostrzenia2.jpg" width="240" alt="Obostrzenia screenshot, 2 of 2">
 </p>
 
-<br>
-
-## [HiHi Connect 2](https://apps.apple.com/app/hihi-connect-2/id1532249807)
+### [HiHi Connect 2](https://apps.apple.com/app/id1532249807)
 
 Application that allows audio and video calling using **Session Initiation Protocol (SIP)**. Users can also store contacts, synchronize them and view their presence (using **XMPP**).
 
@@ -157,15 +151,13 @@ What I've learned:
 - **CoreData** to store and synchronize data fetched from the API (company contacts, calls history)
 - **linphoneSDK** - a library that integrates SIP voice/video features
 
-<p float="left">
-  <img src="./assets/apps/hihi1.png" width="240">
-  <img src="./assets/apps/hihi2.png" width="240">
-  <img src="./assets/apps/hihi3.png" width="240">
+<p align="center">
+  <img src="./assets/apps/hihi1.png" width="240" alt="HiHi Connect 2 screenshot, 1 of 3">
+  <img src="./assets/apps/hihi2.png" width="240" alt="HiHi Connect 2 screenshot, 2 of 3">
+  <img src="./assets/apps/hihi3.png" width="240" alt="HiHi Connect 2 screenshot, 3 of 3">
 </p>
 
-<br>
-
-## Social Networking App
+### Social Networking App
 
 This project was a social network app that allows users to search for groups related to their interests/hobbies and post text, images, videos and links based on their permissions/group access.
 
@@ -179,9 +171,7 @@ What I've learned:
 
 *Screenshots unavailable due to NDA.*
 
-<br>
-
-## Seaber
+### Seaber
 
 An award-winning IoT mobile app which allows boat owners to be notified of unauthorised movement of their vessels, with sophisticated map integration and social networking features.
 
@@ -194,14 +184,12 @@ What I've learned:
 - **SnapKit** as a DSL for **AutoLayout**
 - implementing **Stripe** payments
 
-<p float="left">
-  <img src="./assets/apps/seaber1.png" width="240">
-  <img src="./assets/apps/seaber2.png" width="240">
+<p align="center">
+  <img src="./assets/apps/seaber1.png" width="240" alt="Seaber screenshot, 1 of 2">
+  <img src="./assets/apps/seaber2.png" width="240" alt="Seaber screenshot, 2 of 2">
 </p>
 
-<br>
-
-## [Zdrowe Zakupy](https://apps.apple.com/pl/app/zdrowe-zakupy/id1200020785)
+### [Zdrowe Zakupy](https://apps.apple.com/app/id1200020785)
 
 Zdrowe Zakupy is an application that helps you buy products that do not contain harmful ingredients. After scanning the product's barcode, you can check the specific ingredients and their possible harmfulness.
 
@@ -214,15 +202,13 @@ What I've learned:
 - implementing **Rewarded Video Ads**
 - the process of submitting a new app to the **App Store**
 
-<p float="left">
-  <img src="./assets/apps/zdrowe_zakupy1.jpg" width="240">
-  <img src="./assets/apps/zdrowe_zakupy2.jpg" width="240">
-  <img src="./assets/apps/zdrowe_zakupy3.jpg" width="240">
+<p align="center">
+  <img src="./assets/apps/zdrowe_zakupy1.jpg" width="240" alt="Zdrowe Zakupy screenshot, 1 of 3">
+  <img src="./assets/apps/zdrowe_zakupy2.jpg" width="240" alt="Zdrowe Zakupy screenshot, 2 of 3">
+  <img src="./assets/apps/zdrowe_zakupy3.jpg" width="240" alt="Zdrowe Zakupy screenshot, 3 of 3">
 </p>
 
-<br>
-
-## [Qpony](https://apps.apple.com/app/qpony-promocje-kupony-zniżki/id585176404)
+### [Qpony](https://apps.apple.com/app/id585176404)
 
 The most popular discount app in Poland. The best and most up-to-date coupons and leaflets in one application. Here you will find a database of coupons, sales, discounts and promotional leaflets for popular retail chains.
 
@@ -234,15 +220,13 @@ What I've learned:
 - becoming more familiar with **CocoaPods**
 - working with analytic tools like **Crashlytics** and **Clevertap**
 
-<p float="left">
-  <img src="./assets/apps/qpony1.jpg" width="240">
-  <img src="./assets/apps/qpony2.jpg" width="240">
-  <img src="./assets/apps/qpony3.jpg" width="240">
+<p align="center">
+  <img src="./assets/apps/qpony1.jpg" width="240" alt="Qpony screenshot, 1 of 3">
+  <img src="./assets/apps/qpony2.jpg" width="240" alt="Qpony screenshot, 2 of 3">
+  <img src="./assets/apps/qpony3.jpg" width="240" alt="Qpony screenshot, 3 of 3">
 </p>
 
-<br>
-
-## [Blix](https://apps.apple.com/app/blix-gazetki-lista-zakupów/id1012288672)
+### [Blix](https://apps.apple.com/app/id1012288672)
 
 Blix is a free application with leaflets of the most popular retail chains in Poland and a convenient and simple shopping list. Additionally, thanks to the intelligent product search engine, you can check where you can buy the cheapest product.
 
@@ -255,15 +239,13 @@ What I've learned:
 - working with **deeplinks** and **Branch.io**
 - creating simple lanes with **fastlane**
 
-<p float="left">
-  <img src="./assets/apps/blix1.jpg" width="240">
-  <img src="./assets/apps/blix2.jpg" width="240">
-  <img src="./assets/apps/blix3.jpg" width="240">
+<p align="center">
+  <img src="./assets/apps/blix1.jpg" width="240" alt="Blix screenshot, 1 of 3">
+  <img src="./assets/apps/blix2.jpg" width="240" alt="Blix screenshot, 2 of 3">
+  <img src="./assets/apps/blix3.jpg" width="240" alt="Blix screenshot, 3 of 3">
 </p>
 
-<br>
-
-## Skidki i Akcii
+### Skidki i Akcii
 
 Skidki i Akcii is a free application that helps users avoid lengthy searches for discounts in supermarkets, leaflets, and on the Internet.
 
@@ -276,15 +258,15 @@ What I've learned:
 - working with advanced **Auto Layout** and **UIKit**
 - implementing **Google Ads**
 
-<p float="left">
-  <img src="./assets/apps/skidki.png" width="320">
+<p align="center">
+  <img src="./assets/apps/skidki.png" width="320" alt="Skidki i Akcii screenshot">
 </p>
 
-<br>
+## Experience
 
-# Companies
+### Too Good To Go
 
-## [<img src="./assets/companies/tgtg.png" style="background-color:whitesmoke;padding:0px;" height="80">](https://www.toogoodtogo.com)
+[<img src="./assets/companies/tgtg.png" height="80" alt="Too Good To Go logo">](https://www.toogoodtogo.com)
 
 **Senior iOS Software Engineer**, *March 2023 - present*
 
@@ -301,9 +283,9 @@ My responsibilities:
 - modernizing CI for the design system - release automation, semver detection, and snapshot-testing workflows
 - helping define company-wide guidelines for working with AI tools - rules, skills, and good practices
 
-<br>
+### Devoteam (Creative Tech)
 
-## [<img src="./assets/companies/devoteam.png" style="background-color:whitesmoke;padding:0px;" height="80">](https://creativetech-se.devoteam.com)
+[<img src="./assets/companies/devoteam.png" height="80" alt="Devoteam logo">](https://www.devoteam.com/)
 
 **iOS Developer**, *February 2021 - February 2023* (originally **Jayway**, later merged with Devoteam Creative Tech)
 
@@ -317,9 +299,9 @@ My responsibilities:
 - working with multiple Bluetooth SDKs (**CoreBluetooth**, **GaiaSDK**, **GNP**) for hearing-aid and headphone device communication
 - collaborating with international product teams across different client engineering cultures
 
-<br>
+### itCraft
 
-## [<img src="./assets/companies/itcraft.png" style="background-color:whitesmoke;padding:16px;" height="60">](https://itcraftapps.com)
+[<img src="./assets/companies/itcraft.png" height="60" alt="itCraft logo">](https://itcraftapps.com)
 
 **iOS Developer**, *May 2019 - January 2021*
 
@@ -333,9 +315,9 @@ My responsibilities:
 - applying patterns and libraries appropriate to each codebase (**MVVM**, **RxSwift**, **CoreData**, **CallKit**, **PushKit**)
 - collaborating directly with clients, product owners, and cross-functional teams
 
-<br>
+### Qpony
 
-## [<img src="./assets/companies/qpony.png" style="background-color:whitesmoke;padding:16px;" height="60">](https://www.qpony.pl)
+[<img src="./assets/companies/qpony.png" height="60" alt="Qpony logo">](https://www.qpony.pl)
 
 **Junior iOS Developer**, *August 2018 - April 2019*
 
@@ -349,9 +331,9 @@ My responsibilities:
 - working with analytics tooling (**Crashlytics**, **Clevertap**) for release monitoring
 - first commercial iOS role - formative period learning Swift, Xcode, **CocoaPods**, and large-scale codebase patterns
 
-<br>
+### Unit4
 
-## [<img src="./assets/companies/unit4.png" style="background-color:whitesmoke;padding:16px;" height="40">](https://www.unit4.com)
+[<img src="./assets/companies/unit4.png" height="40" alt="Unit4 logo">](https://www.unit4.com)
 
 **System Analyst / IT Support Consultant**, *June 2016 - July 2018*
 
@@ -365,23 +347,20 @@ My responsibilities:
 - handling high-priority escalations against customer SLAs
 - delivering internal training within the area of expertise
 
-<br>
+## Education
 
-# Education
+### Nicolaus Copernicus University in Toruń
 
-## [<img src="./assets/companies/umk.png" style="background-color:whitesmoke;padding:8px;" height="80" >](https://www.umk.pl/en)
+[<img src="./assets/companies/umk.png" height="80" alt="Nicolaus Copernicus University logo">](https://www.umk.pl/en)
 
 *October 2012 - June 2017*
 
-**Information Technology**, Engineer's degree<br>
+**Information Technology**, Engineer's degree
+
 Thesis project: **TODO** - a web application for managing task lists (yes, the app was literally called "TODO")
 
-<br>
-
-## Courses
+### Courses
 
 - [**iOS Lead Essentials**](https://www.essentialdeveloper.com/p/ios-lead-essentials/) by Essential Developer - TDD, modular design, Clean Architecture, advanced testing patterns
 
-<br>
-
-[↑ Back to top](#about-me)
+[↑ Back to top](#adrian-kwiatkowski)
