@@ -67,9 +67,9 @@ What I've learned:
 - **Claude Code** with multi-agent workflows in daily work
 
 <p align="center">
-  <img src="./assets/apps/tgtg2.png" width="240" alt="Too Good To Go screenshot, 1 of 3">
-  <img src="./assets/apps/tgtg3.png" width="240" alt="Too Good To Go screenshot, 2 of 3">
-  <img src="./assets/apps/tgtg1.png" width="240" alt="Too Good To Go screenshot, 3 of 3">
+  <img src="./assets/apps/tgtg2.jpg" width="240" alt="Too Good To Go screenshot, 1 of 3">
+  <img src="./assets/apps/tgtg3.jpg" width="240" alt="Too Good To Go screenshot, 2 of 3">
+  <img src="./assets/apps/tgtg1.jpg" width="240" alt="Too Good To Go screenshot, 3 of 3">
 </p>
 
 ### [Jabra Sound+](https://apps.apple.com/app/id1320805565)
@@ -115,9 +115,9 @@ What I've learned:
 - **Combine** framework to pass the data between components
 
 <p align="center">
-  <img src="./assets/apps/kai1.png" width="240" alt="Kai screenshot, 1 of 3">
-  <img src="./assets/apps/kai2.png" width="240" alt="Kai screenshot, 2 of 3">
-  <img src="./assets/apps/kai3.png" width="240" alt="Kai screenshot, 3 of 3">
+  <img src="./assets/apps/kai1.jpg" width="240" alt="Kai screenshot, 1 of 3">
+  <img src="./assets/apps/kai2.jpg" width="240" alt="Kai screenshot, 2 of 3">
+  <img src="./assets/apps/kai3.jpg" width="240" alt="Kai screenshot, 3 of 3">
 </p>
 
 ### Obostrzenia
@@ -152,9 +152,9 @@ What I've learned:
 - **linphoneSDK** - a library that integrates SIP voice/video features
 
 <p align="center">
-  <img src="./assets/apps/hihi1.png" width="240" alt="HiHi Connect 2 screenshot, 1 of 3">
-  <img src="./assets/apps/hihi2.png" width="240" alt="HiHi Connect 2 screenshot, 2 of 3">
-  <img src="./assets/apps/hihi3.png" width="240" alt="HiHi Connect 2 screenshot, 3 of 3">
+  <img src="./assets/apps/hihi1.jpg" width="240" alt="HiHi Connect 2 screenshot, 1 of 3">
+  <img src="./assets/apps/hihi2.jpg" width="240" alt="HiHi Connect 2 screenshot, 2 of 3">
+  <img src="./assets/apps/hihi3.jpg" width="240" alt="HiHi Connect 2 screenshot, 3 of 3">
 </p>
 
 ### Social Networking App
@@ -185,8 +185,8 @@ What I've learned:
 - implementing **Stripe** payments
 
 <p align="center">
-  <img src="./assets/apps/seaber1.png" width="240" alt="Seaber screenshot, 1 of 2">
-  <img src="./assets/apps/seaber2.png" width="240" alt="Seaber screenshot, 2 of 2">
+  <img src="./assets/apps/seaber1.jpg" width="240" alt="Seaber screenshot, 1 of 2">
+  <img src="./assets/apps/seaber2.jpg" width="240" alt="Seaber screenshot, 2 of 2">
 </p>
 
 ### [Zdrowe Zakupy](https://apps.apple.com/app/id1200020785)
@@ -259,7 +259,7 @@ What I've learned:
 - implementing **Google Ads**
 
 <p align="center">
-  <img src="./assets/apps/skidki.png" width="320" alt="Skidki i Akcii screenshot">
+  <img src="./assets/apps/skidki.jpg" width="320" alt="Skidki i Akcii screenshot">
 </p>
 
 ## Experience
